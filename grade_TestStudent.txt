@@ -1,0 +1,2045 @@
+============================
+=========  TASK 1  =========
+============================
+CALLING YOUR setModel() FUNCTION
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	On the second voyage, with his ship beset by storms south of Cape Horn, Hatley shot an albatross, an incident immortalised by Samuel Taylor Coleridge in his poem, The Rime of the Ancient Mariner.
+	 Born in 1685 in Woodstock, Oxfordshire, Hatley went to sea in 1708 as part of Woodes Rogers's expedition against the Spanish.
+	 Rogers circumnavigated the world, but Hatley was captured on the coast of present-day Ecuador and imprisoned in Lima, where he was tortured by the Inquisition.
+	 He was released and returned to Britain in 1713.
+	 Hatley's second voyage, under George Shelvocke, was the source of the albatross incident, and also ended with his capture by the Spanish.
+	 As Hatley had, at Shelvocke's direction, looted a Portuguese vessel on the coast of Brazil, the Spanish this time held him as a pirate, though ultimately they released him again, deciding that Shelvocke was the more culpable party.
+	 Hatley returned to Britain in 1723, and hastily sailed to Jamaica to avoid trial for piracy.
+	 His fate thereafter is unknown.
+target sentence: On the subsequent voyage, with his ship assailed by tempests south of Cape Horn, Hatley shot an albatross, an occurrence deified by Samuel Taylor Coleridge in his poem, The Rime of the Ancient Mariner.
+CORRECT OUTPUT:
+0
+YOUR OUTPUT:
+0
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	Much of what is known about Hatley's subsequent life is in connection with the two privateering voyages that he made to the Pacific coast of South America.
+	 Privateers were men who sailed in armed merchant ships carrying letters of marque from their government authorising them to plunder foreign enemies, keeping any profits for themselves and their ships' owners.
+	 The first such voyage made by Hatley was under the command of Captain Woodes Rogers during the War of the Spanish Succession, which found Britain and Spain on opposing sides.
+	 In 1708, at the age of twenty-three, he signed on as third mate (a junior officer position) of the Duchess, the smaller of Rogers's two ships, the other being the Duke.
+	 Rogers's vessels were then being readied in Bristol for a long and difficult journey to the Pacific coast of South America.
+	 The purpose of the Rogers expedition was to go around Cape Horn into the South Pacific, to damage Spanish settlements and interests along the South American Pacific coast, and to capture booty for their own profit, including the large treasure galleons that sailed from Manila to Mexico.
+	 The two ships were to be crammed with men, supplies to maintain them, and with guns and powder, for the success of the expedition depended on being able to outfight those vessels they sought to capture and plunder.
+target sentence: Privateers were men who cruised in outfitted dealer boats conveying letters of marque from their administration approving them to loot outside foes, keeping any benefits for themselves and their boats' proprietors.
+CORRECT OUTPUT:
+1
+YOUR OUTPUT:
+1
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	The process begins as two continents (different bits of continental crust), separated across a tract of ocean (and oceanic crust), approach each other, while the oceanic crust is slowly consumed at a subduction zone.
+	 The subduction zone runs along the edge of one of the continents and dips under it, raising volcanic mountain chains at some distance behind it, such as the Andes of South America today.
+	 Subduction involves the whole lithosphere, the density of which is largely controlled by the nature of the crust it carries.
+	 Oceanic crust is thin (~6 km thick) and dense (about 3.
+	3 g/cm³), consisting of basalt, gabbro, and peridotite.
+	 Consequently, most oceanic crust is subducted easily at an oceanic trench.
+	 In contrast, continental crust is thick (~45 km thick) and buoyant, composed mostly of granitic rocks (average density about 2.
+	5 g/cm³).
+	 Continental crust is subducted with difficulty, but is subducted to depths of 90-150 km or more, as evidenced by ultra-high pressure (UHP) metamorphic suites.
+	 Normal subduction continues as long as the ocean exists, but the subduction system is disrupted as the continent carried by the downgoing plate enters the trench.
+	 Because it contains thick continental crust, this lithosphere is less dense than the underlying asthenospheric mantle and normal subduction is disrupted.
+	 The volcanic arc on the upper plate is slowly extinguished.
+	 Resisting subduction, the crust buckles up and under, raising mountains where a trench used to be.
+	 The position of the trench becomes a zone that marks the suture between the two continental terranes.
+	 Suture zones are often marked by fragments of the pre-existing oceanic crust and mantle rocks, known as ophiolites.
+target sentence: Subduction includes the entire lithosphere, the thickness of which is to a great extent constrained by the idea of the covering it conveys.
+CORRECT OUTPUT:
+2
+YOUR OUTPUT:
+2
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	Philological analysis of Archaic Latin works, such as those of Plautus, which contain snippets of everyday speech, indicates that a spoken language, Vulgar Latin (termed sermo vulgi, 'the speech of the masses', by Cicero), existed concurrently with literate Classical Latin.
+	 The informal language was rarely written, so philologists have been left with only individual words and phrases cited by classical authors and those found as graffiti.
+	 However, philologists have found traces of this seldom written language in the earlier works and drafts of William Shakespeare's many plays.
+	 One of the examples most prominent is in one of Shakespeare's first drafts of Titus Andronicus, where Shakespeare referred to the villain of the play as a 'adipem pullum'.
+	 (Fat chicken.
+	) As it was free to develop on its own, there is no reason to suppose that the speech was uniform either diachronically or geographically.
+	 On the contrary, romanised European populations developed their own dialects of the language, which eventually led to the differentiation of Romance languages.
+	 The decline of the Roman Empire meant a deterioration in educational standards that brought about Late Latin, a postclassical stage of the language seen in Christian writings of the time.
+	 It was more in line with everyday speech, not only because of a decline in education but also because of a desire to spread the word to the masses.
+target sentence: One of the models most unmistakable is in one of Shakespeare's first drafts of Titus Andronicus, where Shakespeare alluded to the antagonist of the play as an 'adipem pullum'.
+CORRECT OUTPUT:
+3
+YOUR OUTPUT:
+3
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	Medieval Latin is the written Latin in use during that portion of the postclassical period when no corresponding Latin vernacular existed.
+	 The spoken language had developed into the various incipient Romance languages; however, in the educated and official world Latin continued without its natural spoken base.
+	 Moreover, this Latin spread into lands that had never spoken Latin, such as the Germanic and Slavic nations.
+	 It became useful for international communication between the member states of the Holy Roman Empire and its allies.
+	 Without the institutions of the Roman empire that had supported its uniformity, medieval Latin lost its linguistic cohesion: for example, in classical Latin sum and eram are used as auxiliary verbs in the perfect and pluperfect passive, which are compound tenses.
+	 Medieval Latin might use fui and fueram instead.
+	 Furthermore, the meanings of many words have been changed and new vocabularies have been introduced from the vernacular.
+	 Identifiable individual styles of classically incorrect Latin prevail.
+target sentence: Medieval Latin is the composed Latin being used during that segment of the postclassical period when no relating Latin vernacular existed.
+CORRECT OUTPUT:
+0
+YOUR OUTPUT:
+0
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	An ongoing trans-national air pollution crisis is affecting several countries in Southeast Asia, including Brunei, Indonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam.
+	 Thailand began to experience a haze in February that lasted until May, peaking in March and April.
+	 Later in the year, starting from June to July, Indonesia began to experience haze.
+	 Malaysia was affected from August, while Singapore, Brunei, and Vietnam experienced haze in September.
+	 It is the latest occurrence of the Southeast Asian haze, a long-term issue that occurs in varying intensity during every dry season in the region.
+	 It has mainly been caused by forest fires resulting from illegal slash-and-burn clearing performed on behalf of the palm oil industry in Indonesia, principally on the islands of Sumatra and Borneo, which then spread quickly in the dry season.
+target sentence: Thailand started to encounter a cloudiness in February that went on until May, topping in March and April.
+CORRECT OUTPUT:
+1
+YOUR OUTPUT:
+1
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	The earthquake caused severe damage to 135 houses in Mirpur District, with a further 319 being partially damaged, most in Mirpur and just four in Bhimber District.
+	 Two bridges were reported damaged and parts of several roads were affected, particularly 14 km of the Main Jatlan Road.
+	 According to the chairman of Pakistan's National Disaster Management Authority (NDMA), 'In Mirpur, besides the city, a small town Jatlan, and two small villages Manda and Afzalpur' were among the worst-hit areas.
+	 According to him, the main road which runs alongside a river from Mangla to Jatla suffered major damage.
+	 According to the officials, the Mangla Dam, Pakistan's major water reservoir, was spared.
+	 However, the dam's power house was closed, which resulted in a loss of 900 megawatts to Pakistan's national power grid.
+	 At 7:20 pm, power generation at Mangla was resumed, restoring 700 MW to the national grid.
+target sentence: As per the administrator of Pakistan's National Disaster Management Authority (NDMA), 'In Mirpur, other than the city, a community Jatlan, and two little towns Manda and Afzalpur' were among the most exceedingly awful hit regions.
+CORRECT OUTPUT:
+2
+YOUR OUTPUT:
+2
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	The United Kingdom has a doctrine of parliamentary sovereignty, so the Supreme Court is much more limited in its powers of judicial review than the constitutional or supreme courts of some other countries.
+	 It cannot overturn any primary legislation made by Parliament.
+	 However, it can overturn secondary legislation if, for an example, that legislation is found to be ultra vires to the powers in primary legislation allowing it to be made.
+	 Further, under section 4 of the Human Rights Act 1998, the Supreme Court, like some other courts in the United Kingdom, may make a declaration of incompatibility, indicating that it believes that the legislation subject to the declaration is incompatible with one of the rights in the European Convention on Human Rights.
+	 Such a declaration can apply to primary or secondary legislation.
+	 The legislation is not overturned by the declaration, and neither Parliament nor the government is required to agree with any such declaration.
+	 However, if they do accept a declaration, ministers can exercise powers under section 10 of the Human Rights Act to amend the legislation by statutory instrument to remove the incompatibility or ask Parliament to amend the legislation.
+target sentence: Further, under segment 4 of the Human Rights Act 1998, the Supreme Court, similar to some different courts in the United Kingdom, may make an announcement of contrariness, demonstrating that it accepts that the enactment subject to the statement is contrary with one of the rights in the European Convention on Human Rights.
+CORRECT OUTPUT:
+3
+YOUR OUTPUT:
+3
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	The first case heard by the Supreme Court was HM Treasury v Ahmed, which concerned 'the separation of powers', according to Phillips, its inaugural President.
+	 At issue was the extent to which Parliament has, by the United Nations Act 1946, delegated to the executive the power to legislate.
+	 Resolution of this issue depended upon the approach properly to be adopted by the court in interpreting legislation which may affect fundamental rights at common law or under the European Convention on Human Rights.
+	 Because of the doctrine of parliamentary sovereignty, the Supreme Court is much more limited in its powers of judicial review than the constitutional or supreme courts of some other countries.
+	 It cannot overturn any primary legislation made by Parliament.
+	 However, it can overturn secondary legislation if, for example, that legislation is found to be ultra vires to the powers in primary legislation allowing it to be made.
+	 Further, under section 4 of the Human Rights Act 1998, the Supreme Court, like some other courts in the United Kingdom, may make a declaration of incompatibility, indicating that it believes that the legislation subject to the declaration is incompatible with one of the rights in the European Convention on Human Rights.
+	 Such a declaration can apply to primary or secondary legislation.
+	 The legislation is not overturned by the declaration, and neither Parliament nor the government is required to agree with any such declaration.
+	 However, if they do accept a declaration, ministers can exercise powers under section 10 of the act to amend the legislation by statutory instrument to remove the incompatibility or ask Parliament to amend the legislation.
+target sentence: The principal case heard by the Supreme Court was HM Treasury v Ahmed, which concerned 'the partition of forces', as indicated by Phillips, its debut President.
+CORRECT OUTPUT:
+0
+YOUR OUTPUT:
+0
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+sentences:
+	The court is housed in Middlesex Guildhall - which it shares with the Judicial Committee of the Privy Council—in the City of Westminster.
+	 The Constitutional Reform Act 2005 gave time for a suitable building to be found and fitted out before the Law Lords moved out of the Houses of Parliament, where they had previously used a series of rooms in the Palace of Westminster.
+	 After a lengthy survey of suitable sites, including Somerset House, the Government announced that the new court would be at the Middlesex Guildhall, in Parliament Square, Westminster.
+	 That decision was examined by the Constitutional Affairs Committee, and the grant of planning permission by Westminster City Council for refurbishment works was challenged in a judicial review by the conservation group Save Britain's Heritage.
+	 It was also reported that English Heritage had been put under great pressure to approve the alterations.
+	 Feilden + Mawson, supported by Foster & Partners, were the appointed architects.
+target sentence: The Constitutional Reform Act 2005 gave time for an appropriate structure to be found and fitted out under the watchful eye of the Law Lords moved out of the Houses of Parliament, where they had recently utilized a progression of rooms in the Palace of Westminster.
+CORRECT OUTPUT:
+1
+YOUR OUTPUT:
+1
+Correct!
+
+You got 100.0% correct: +60/50 points
+============================
+=========  TASK 2  =========
+============================
+CALLING YOUR classifySubreddit_train() FUNCTION
+
+
+TESTING ON INPUT PROBLEM:
+	Not everyone can do that. It might require some people days just to pull that off with the answer right there. Figuring that out on your own would be impossible for many people. Well, it would be possible in the sense that we just saw it completed. But virtually impossible to many people. 
+
+I will say, just trying to finish it based on the video would significantly improve your skills though.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I wouldn’t be able to do this. I absolutely suck at this game
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Hey FYI I found a weird way to do the 2nd shell trick. Thought I'd share with you and maybe I'd want to put something like it in a level I make, it was pretty cool.
+
+https://streamable.com/zap3q
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	+1 for the sn30 pro. it's perfect for MM2 and I love it for botw (even play on pc with cemu). 
+
+The only thing that has happened to mine is since playing MM2 the "b" button eventually began sticking. It got to the point where the WR's I was losing I couldn't reclaim!! 
+
+Here's what I did to fix it: you can simply take the pad for the buttons off and rotate it 180. You will need to trim a little off the other corner (you'll see what I mean if you attempt it), but once you get it done it works perfect. I was worried that because I flipped the pad the "x" button would start sticking, but that's not the case. 
+
+Plus, the only game where I need to hold "x" a lot is Super Metroid. And I claw grip super metroid and hold "x" literally the whole game. After a few runs through it, no sticking yet.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	But this looks fine. Also nice indicators everywhere. Very clean and clear ^^
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I made one in Mario bro’s 3 and my Friend said it’s not a Kaizo , but isn’t a kaizo level just a hard level
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Haha, no worries. Edited seconds after your reply that I just managed to clear it.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	It's not something that takes much to figure out. That level has much more to do with developing fine motor skills than knowing what to do and how to do it. 
+
+It's an entry level kaizo, it's a fantastic level to get into kaizo levels.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Not only that, but I don't find constant split-second failure very enjoyable either. Glad it exists for those who want it, but "just go for it" is poor advice for anything with this level of difficulty.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I think of you grind 100 Mario's againts this, you will see progress. Its not a level for someone looking for a casual mario experience, but it will be the most rewarding flagpole you've ever touched.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	this is how i got through it, i didn't realize you were supposed to kick the shell the other way until i watched the video.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Many ways lead to rome.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Not really, kaizo means that it is very different from the style of traditional levels, using tricks and level design unseen in the normal mario games. A level can be very difficult but traditional.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Thanks for playing. Could you try out my new kaizo level if you want? It’s a bit harder than this but it has no shell jumps (just a few shell buckets), and one checkpoint. ID is on the post. I’m also getting pretty far on your Chroma Velocity level
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I think you are severely over estimating the fine motor skills of the average Mario player. There are people that can’t beat the medium difficulty levels that Nintendo makes in a basic Mario game. Entry level kaizo might as well be a broken level that absolutely can’t be beaten to some people. You say there’s not much to figure out, but you’re saying that form the perspective of someone that I assume plays a lot of these types of levels.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Except kicking a bomb in the wrong direction. That will never lead to rome.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Oh okay
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Don't feel obligated with playbacks. Only if you want to.
+
+I don't have time for another grind tonight, but I'll check out the new one, and gladly so if there are no genuine shell jumps! A level with this pacing, but harder than the middle section, and without true item tricks, actually sounds fantastic.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	> I think you are severely over estimating the fine motor skills of the average Mario player. There are people that can’t beat the medium difficulty levels that Nintendo makes in a basic Mario game. 
+
+  
+For real. I set myself out to make easy levels and it's very hard to break 30% completion rate while making it remotely interesting.   
+
+
+I made a really easy level based around 3D worlds' bumpers where you're not really supposed to die. I managed to get the completion rate to 80% but somehow some people managed to get the 500 second timer to run out in the 2nd "challange" in the level (jumping on three bumpers to get to the other side, I even had a smaller "challenge" of doing that with one bumper so people would understand you have to hold jump for a high jump).
+
+Edit: I just checked and it's a 66%
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I guarantee there are many people who can't do this type of level, but I also feel that you are underestimating the number of people who _can_ do this level, given an adequate amount of practice
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	True that only leads into a spike. Quod erat demonstrandum.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Thanks a lot!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	And this guy is trying to tell me this isn’t a hard level. I’ve made levels way easier than this one and the completion rate is so low. These guys think anyone that plays Mario would be able to figure this level out. It’s like they’ve never seen the completion rates of any levels.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	How do you know people aren't just getting bored or distracted and abandoning the level?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Here’s the thing. With enough practice, many people could play in the MLB. I think there is a very small percentage of Mario players that posses the patience and time to dedicate that much practice to beat this level. I think the percentage is increased if they use the video for reference. But without the video telling them how, I’m thinking it’s not happening for like at least 90% of the people that play Mario Maker.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	The moment you make holding the run button at some point a requirement to clear the level the clear rate is around 5%.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Does abandoning the level leave one of those X marks?
+
+I thought that was just when you died. I personally find the level boring due to how easy it is but if you're getting bored because it's too easy you probably can run through it in 30 seconds so I doubt it's because they're leaving or getting distracted.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Doing a kaizo course is not even comparable to the MLB. Doing a kaizo course is more comparable to hitting a pitch from an MLB pitcher. If that's your goal, putting in some hours with that pitcher will get you there easily. That's not to say that your average will be any good, but you will manage to make contact. 
+
+Think about how many people can actually do kaizo courses compared to the amount of people that have played MM. It's far greater than the amount of kids playing baseball to make it into the MLB. You are giving people that have achieved a victory in MM too much credit for their skills. It doesn't take that much practice to beat a simple Kaizo map. 
+
+If anyone can learn a a song on an instrument, anyone can learn a Kaizo map.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	That’s an acquired skill you wouldn’t even consider when making levels at first. I’ve been playing Mario games since the first one and I’m pretty much always holding the run button. I made a level that has some run requirements and my wife isn’t someone that always holds run and I watched her play it. Learning when you need to hold run in a level wasn’t even a challenge I was aware of because I have been playing Mario for so long.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I'm not positive but I think it does
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Not just anyone can learn on a song on an instrument and the average person might make contact by accident after many hours of trying with an MLB pitcher. My point was that lots of people can do things if you give them enough time. The problem is whether or not the person has the will power and time to get there. The vast majority of people playing mario maker don’t have the time or patience to beat this level without the answer given to them and most won’t get there with the answer given to them.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Learning a song on an instrument is a pretty fair analogy to beating a Kaizo level--both in terms of the type of skill/activity it is, and the difficulty.
+
+Of course, some levels are a few chords to play with the proper rhythm on guitar, and some are violin concertos.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I actually did consider it because I watched one of Mark Brown's videos and he mentions it. Most of my levels are made with no running in mind.
+
+I made one level where you need to run at some point but I added "Hold Y to run" in the description and made it so you can't get past the 1st obstacle without running. The platforming required running at points but it's still pretty straight foward. Even then the clear rate was low.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yeah it probably does. I just checked and the clear rate dropped to 66.6%. I have 2 new Xs right at the start of the stage, it looks like some people can't figure out how to get through the first challange of doing a high jump on a bumper or something about the level made them quit right when they got in (if anyone is interested I'll send the link).
+
+I don't do troll levels. I don't have traps at the start of the stage. This isn't a particularly long level either.
+
+This level in particular is something I made for my 6 year old nephew, it was meant to be easy and fun for someone of his age.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	> The vast majority of people playing mario maker don’t have the time or patience to beat this level 
+
+This is a completely different message than talking about skill gap. Now you are saying laziness prevails, and while it might statistically be true, actively putting effort into something instantly places someone outside of the largest group of people set to fail. You might as well be saying to not encourage people to try, because most people are most likely lazy and lack patience. The person you originally responded to even said it would only test their patience, so assuming OP has patience like he said is required, OP will prevail. He doesn't have to train his whole life for the MLB either. I'm guessing a good week could get him this level.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	There was a level on popular a couple days ago, Forest of Deception or something like that? It was cool, if you can't find it I'll post the code when I get home.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Wacky Wigglers
+M3F-40Y-J6G
+
+This isn't Defender or Potatochan quality by any stretch, but I did try to make something I would want to play.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Not a Troll Level: G44-PX0-RMG
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I've seen and played a lot of troll levels, so I've decided to make one myself, and I'm pretty happy with how it turned out :p
+
+The level is called "The Worst Nostalgia Trip Ever :(" and the code is  3HC-0MV-X4G, I hope you'll enjoy it !
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	go to carl sagan's YT channel and look at the level ID before he plays the level, then play it before watching him. He always plays the best ones so that's the best solution
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yeah that was super cool! 
+
+ID:
+
+RKH 226 KDG
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	How did someone complete that in 16 seconds???
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I'm guessing if you get to that flying block youll get a mushroom or a p switch so when you enter that first room of blocks you drop straight to the goal.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Do multiplayer runs count towards the world record?  Because the only possible way I can think of is that some people played multiplayer versus, one person made a beeline towards the first door below the sideways thwomp while another player jumped off another into the pipe on the top left that leads to CP2.  Standing on CP2 triggers an off-screen ON/OFF switch.  Then the first player would go through the door to CP1 and since the the dotted line blocks are reversed, would take him straight to the goal.
+
+Also, the flying block at the start only has a coin in it.  It is there solely to annoy people.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I think they hit the block with a fish, jumped on to the fish, landed on the platform above it, then went to the flag. I've been able to jump on the fish a couple times, but It's hard to get enough height.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I've got one, it's by no means perfect but it did end up being my most popular level, so I'm still proud of it.
+
+
+-Ruins of the Sunken Sea-
+
+B7M-3H5-NGF
+
+(SMW Style)
+
+Be wary of the lava while avoiding the traps in these sunken ruins. Has some light puzzles, as well as some difficult to collect but optional pink coins.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	The only decent night castle stage I've played is buflen's, which is likely one of the ones you've played. IIRC the only difference between it and a water level was the rising lava.
+
+I'd love to see a night castle level that takes advantage of the regular enemy behavior, like bouncing lava fish or fast thwomps
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I liked it! There are some spots where I wasn't crazy about the waiting, but there was plenty of cool stuff I hadn't considered for the theme--even things as simple as the use of Spiketops (not bad enemies for it), or the way you had to interact with the fire bar near the key and red coin on the return trip.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Oh, lava fish is interesting, if it could be done in a non-irritating way. I've played on level that used fast Thwomps, but I'm not sure it made them very fun. The only good one I've played so far was from -hatari- here.
+
+I actually didn't know Buflen had one! I'll check that out.
+
+Tbh, the sole major selling point of the style is swimming + rising lava, but I want to see if there might be other cool style-specific things to play around with.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Thanks, glad you liked it! I agree about the waiting though, it can be a bit much especially with the slow lava. I was afraid of making it too fast and unfair but mid-speed probably would have been the best call. It is good to hear that everything else worked out fairly well though.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Usually people mage an imgur album and link to that in their reply. Any image hosting site with similar functionality to imgur should do, though. 
+
+The point of the competition is that people make something during the competition period - it's in the rules; entrants are supposed to be less than 33% done when the competition starts. Sorry if that's an inconvenience. We might have longer-running competitions or competitions that allow previously-completed builds in the future, though. 
+
+The final entries post will probably go up on October 24th, though it might go up sooner than that. In any case, it'll be a sticky post - meaning that the post will stay at the top of the sub - so it'll be easy to find.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I'm going to play devil's advocate here: you totally could make a hurricane bolter in three months - or, at least, a very good storm bolter. 
+
+A bolter could be fabricated relatively quickly by fabricating it out of sheep PVC, which [is not hard to make](https://torukmakto4.blogspot.com/2019/03/bulk-pvc-sheet-themoforming-easy-way.html), as a bolter's design features many flat surfaces. 3D printing has many advantages as a method of manufacture, but it is not good at making large things quickly - and that fact is surely at least partially responsible for why your bolter build took so long.  
+
+You could re-use almost all of the design elements of your existing bolter's firing mechanism, to avoid the the risk of needing to spend time on fiddling and experimentation. 
+
+It'd be a lot of work, sure - it wouldn't be as impressive a competition entry if it wasn't - but still doable in three months.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	That sounds great. You've easily met the "<33%" requirement. Re-using components that were present in previous builds is fine.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	So long as there's a blaster in the system, that blaster is eligible.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Hm, the shotgun is the latest one, just finished it actually.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Ah, okay. Thanks!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Ok! Thanks!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Not too long ago someone posted about a new type of pusher that could work with short darts as well as standard length darts. I seem to remember the pusher arm could be folded back on itself or something to that effect. I've been searching for that post and coming up short. Can someone help me find it?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Hey, sorry, I've collected Nerf guns casually for a couple years now, but I never really considered myself "into" it.
+
+I know that "knockoff" darts are pretty much a necessity, but what's the general consensus on off-brand *blasters?* I see Adventure Force blasters right next to Nerf on the shelves, but can't help but think they just look like a cheap knockoff. We bought one bolt-action "sniper" rifle, and while it does preform pretty decent, it also just *feels* cheap, almost hollow. I plan to add weights, maybe give it a more matte paint job later.
+
+I know this sub is more focused on the Nerf brand, but I can't shake the feeling there's a *Malt-O-Meal* of dart guns sitting under my nose that I just haven't found yet.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I'm looking into some eneloop batteries for my stryfe and I just wanted to know if it can just stick 4 in there safely?  Some of the reading I've done regarding rechargeable batteries recommend only 2 or 3 and then a dummy to protect the stock parts  but I wasn't sure if that only applied to IMR or both IMR and NiMH batteries.  Thanks in advance for the help!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	So what's the modern wisdom on removing ARs?  Is it worth it?  I know it's a must on a Sharpfire, but that wasn't an Elite blaster.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Where would someone find carbon fiber priming bars? I don’t care if they’re actually carbon fiber, I’m just tired of looking at the aluminum ones.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	hello  looking for a group of nerfs in Ohio near Cleveland if not that OK thx
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Here's a dumb question I can't find the answer to: with new motors capable of drawing insane currents...what are the motor tabs themselves actually rated for?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I’ve heard that these 18 dart transparent magazines are really good 
+
+https://images.app.goo.gl/VWyc1YyDyF6mLKAj7
+
+But apart from eBay I can’t seem to find any 12 dart versions. Is there any official way to get them, or are they discontinued?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Spread the word. #MakemoreEBFblasters
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Can the Savage Spin use half darts out of the box? If so I retract what I said.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	None of my 25 round drums will lock in certain guns - the stampede and both of my rayvenfires, specifically. Is this a known issue? I can't find anything about it online. If it is i'd love to know if there's any modifications i can do to get them to lock.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Anyone have a link to a good 2s for the fr-1 viper?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Where do you find the best deals on Nerf ammo? I found a breakdown here, but it's just Amazon prices. Are they cheaper in stores? [https://unitprice.org/nerf-darts](https://unitprice.org/nerf-darts)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	What other kinds of blasters and stuff do you think the new orange mod works line is going to have in the future? Do you think it will have anything other than just the 2 blasters in the future?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Can anyone help me identify the top two blasters (or all 3)?  I'm pretty much a nerf newb.  The left looks like a stryfe?  I don't know.  Thanks!
+
+[https://imgur.com/HyNVyxT](https://imgur.com/HyNVyxT)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Are there any decent 2S pusher motors with good braking? I'm thinking about building a woozi, but I don't want to move up to a 3S setup. The original specifically mentioned Neo Rhinos for cycle control braking, and I'm wondering if there's a 2S equivalent that would work equally well. Thanks in advance!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	why are meme posts being allowed again?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I know tungsten exe designed one for a rapidstrike that had a magnetized extender. Tungsten's whole rapidstrike mods are up on his Thingiverse page.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Iiiiit depends. 
+
+Adventure Force blasters are made by a couple of different companies, namely Zuru, Prime Time Toys/Dart Zone, and Buzzbee. 
+
+The best thing to do is look up reviews. You loose on the "feel" of the blaster more often than not, but a lot of adventure force/dart zone blasters shoot a bit hotter than Hasbro stuff. 
+
+Top picks right now are the Adventure Force Savage Spin, the Dart Zone Scorpion,  The Magnum Speedrum, and the Turbo Advance/Superdrum. If something looks interesting, look it up!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	>Some of the reading I've done regarding rechargeable batteries recommend only 2 or 3 and then a dummy to protect the stock parts  but I wasn't sure if that only applied to IMR or both IMR and NiMH batteries.
+
+Dummy batteries are recommended in conjunction with IMRs (by anyone still recommending 14500 IMRs, which *should* be no one in this day and age because they're not appropriate or safe) because those provide significantly higher voltage than alkaline AAs (the reason they're not a good idea is that while they provide voltage in spades, they don't provide enough *current*) - if you try to push 14.8v through a toy-grade blaster designed and rated for 6v, you're going to burn it out very very quickly.
+
+There is zero reason to use a dummy batter with Eneloops or other NiMH batteries, as they have a lower nominal voltage than alkaline chemistry (that's actually higher than what alkalines are providing across most of the discharge cycle as they sag far less) so you're never exceeding the voltage the blaster was designed to take - put as many of those in as the blaster is designed for.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	They will be fine if you stick with Eneloops. Your blaster will operate the same as usual.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	It depends on the blaster and what era. Some it seems to make a difference and many it doesn't.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	PSA: There is no such thing as "an Elite blaster" mechanically speaking.
+
+That's marketing.
+
+It has nothing at all to do with removing ARs.
+
+Also, yes. Death to all ARs. It is a must to zorch them if you use a long barrel of course, but even with a dart-length barrel, they push out worn foam and cause malfunctions, and they do cause a flow loss and waste energy. They are a toy safety feature that we don't need in our hobby (to stop kids from shooting marbles). If your piston needs an impact pad or bumper O-ring, then make sure one is present and you won't break anything.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	If it's just aesthetics, I feel like it'd be cheapest and safest to paint the aluminum ones. 
+
+You can also buy and make your own carbon fiber bars. They're a pain to cut lengthwise without a machine shop specialized for handling composites OR a waterjet. Cutting and drilling is a bit easier, but make sure to wear gloves and use at least a particulate mask because carbon fiber dust is nasty.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	If you look on Facebook, I'm aware of both NEON (NE Ohio Nerf) and a clun in Cuyahoga Falls. 
+
+Also, YSU has an Urban Gaming Club, and the Invite portion of the HvZ game is on Saturday! (Technically you can join in early, but the main out of town group will be there Saturday)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Good question. Also interested in knowing, given that the wires we're interested in are often thicker than the tabs they connect to. >.>
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I think it's like the Super Drum. First, you'd need to remove the little paddle thingie that hangs in front of the cylinder.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	the future of OMW is always unpredictable. All you can do is stay tuned and see what develops.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	From left to right:
+
+* [Demolisher](https://nerf.fandom.com/wiki/Demolisher_2-In-1) \- it's essentially a symmetrical Stryfe with an underbarrel HAMP that launches "rockets" (that are commonly referred to as Demolisher rockets, though other blasters fire those)
+* [Rapidstrike](https://nerf.fandom.com/wiki/RapidStrike_CS-18) \- the original Nerf full-auto mag-fed flywheel blaster
+* [Sledgefire](https://nerf.fandom.com/wiki/SledgeFire) \- break-action "shotgun" that uses special shells to fire
+
+All of those actually have the name molded onto them, though if you were working just from that image I can see why you'd still have difficulty (Sledgefire's name is orange on orange on the barrel section, and the angle isn't showing the name plates on the other 2).
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	> why are meme posts being allowed again? 
+
+It's a provision in the rules:
+
+>Exceptions may be made at the moderators’ discretion for topical ‘joke’  posts that contribute to an ongoing discussion on current events in the  NIC.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I found it. It hasn't been implemented yet. Still in the conceptual stage it looks like. That's my bad memory for you. Here's the link:  [https://www.reddit.com/r/Nerf/comments/csqbx1/full\_length\_and\_half\_length\_dart\_hybrid\_pusher/](https://www.reddit.com/r/Nerf/comments/csqbx1/full_length_and_half_length_dart_hybrid_pusher/)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Hmm... I went and checked out his Thingiverse page. I might be wrong, but I don't think he has what I'm looking for. I *did* see an extended pusher for a Rapidstrike, but it was a pretty standard design. The one I'm thinking of was somewhat innovative in it's design, allowing for use with both types of darts.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Thanks, Doctor. You're the one who convinced me to switch from IMRs and dummies. It's strange, though, because I think they actually work a little better in blasters with a bypassed VR. Also, the Pro version seems to have much better performance for awhile after a charge, then it drops off.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Elite-era direct plunger blasters, in particular.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Well, the transition from reverse plunger to direct plunger is a mechanical feature that was a defining characteristic of the Elite line.  The Sharpfire is an outlier in that it is a DP blaster that could get Elite-level velocities if the AR wasn't so aggressive.
+
+What kind of impact pad do you use?  I'm not interested in decreasing my MTBF for a sub-10% increase in initial velocity, so I'm really interested in this.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I went to a NEON game a while ago - good people! Tell Mitch I said hello if you see him.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	The terminal itself isn't going to fail. Worse things are done to PCB traces in power applications. Especially where there is a wire attached, that's a heatsink and it will allow a high current density in a small bit of metal without it melting. What you would worry about first is the nylon insulator, which doesn't LOOK like glass filled nylon, so it would probably flow out of the way and eventually cause a short if the terrminal consistently runs smoldering hot. But then that likely implies a continuous current that would definitely cook any armature.
+
+But those terminals are awful. We should have abandoned Mabuchi FK architecture years ago and started specifying TPD style (like XP180 and many high-end RC motors) brushgear.
+
+These have much less fragile terminals, the brush/terminal are a tool-free externally replaceable unit, the commutator is bigger and more rugged, the terminals aren't the axially most protrusive thing on the end of the motor (so wire routing is better in tight fitments) and the endbell is not metal and there is no sharp can edge trying to cut wire insulation. Oh, and also, the brushgear is not rotationally biased, as each motor has 2 anti-tangent brushes, which probably helps with the issue FKs can have with rotation direction causing uneven wear and speed mismatch.
+
+If we're going to keep on using DC technology and the 20.4mm flatcan format for the next decade, then maybe we should be switching over to that can/endbell design.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I taped mine down so if it’s that easy then ok
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Maybe he hasn't released it. He demonstrates it in his videos on his rapidstrike build. It was a magnetic extension to the arm.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I found that my EAT performed substantially better without the AR for example, but most say it's not worth removing. Whereas it's still standard to pull them out of nitefinders.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	~~N-Strike-era and Elite-era blasters have radically different AR designs. IIRC, Elite air restrictors are a lot more efficient, so more power is actually sent to the dart. You might get marginal increases, but it can definitely shorten the life of your blasters.~~
+
+~~N-strike era ARs are, conversely, very inefficient, and often slapped on top of older reverse-plunger systems. Even on direct plungers, however, they seriously impede performance.~~
+
+~~This is all from memory and it's literally been like, 7-ish years since we first got elite blasters so, I might be wrong.~~
+
+~~EDIT: Elite repaints/re-releases are kind of the outlier, if your blaster is a repaint of a N-Strike era blaster, you may want to look into knocking out the ARs.~~
+
+Edit2: I'm an old and silly man. Kill your ARs and pad those plungers like it's 2009, baby.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	> Well, the transition from reverse plunger to direct plunger is a mechanical feature that was a defining characteristic of the Elite line.
+
+For the Retalioids (formerly Recon-derived), yes and that is a significant improvement in efficiency.
+
+>What kind of impact pad do you use? I'm not interested in decreasing my MTBF for a sub-10% increase in initial velocity, so I'm really interested in this.
+
+Depends entirely on the app. If it can accept a flat or gasket-style one, a circa 1/4" thick foam rubber (this does *not* mean EVA foam! EVA foam will pack down paper thin and rock hard with constant force on it) pad, such as weatherstripping foam. Low-durometer rubber sheet can also be used. If it's a Retalioid or designed to use a molded rubber bumper (like the ones for Retalioids) or an O-ring, I would be using that. These should also probably just get a piston/cylinder kit from Worker or such right off the bat because the stock parts are plain weak, though years ago I ran them and never had any issue. If it's a Hammershot it has a bumper built into the hammer linkage. If it's a Swarmfire, a small square of sheet rubber at the end of the track in the back of the receiver, which I guess is also an opportunity for aoe adjustment though I never did either on swarmies.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Thanks for the answer! Granted, it wasn't hard numbers, but it was a lot more information than I've been able to find.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Good point.
+
+Whether a contest or not, my sense is that we need a way to gather and play together. Seems like the concert did that even for those that didn't participate.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Got it.
+
+I know of the basic rules of internet privacy like “don’t share personal identifiable info” and stuff like that.
+
+Would you say hiding your face in videos is important? Is there an easy way to do that?
+
+Maybe the better question is, where should I start looking for a good list of safe practices to draw from?
+
+Im savvy with the technical sharing stuff like SoundCloud/YouTube, so I can include that.
+
+You’re welcome!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I think I get what you mean. That could be another post maybe? Like a work in progress thing?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	OH! Thank you for looking into it. 
+
+Yeah, I can't have it tied to my YouTube accounts, because I have my name on those. And I believe you are only allowed one YouTube account? Google also plays silly tricks with user names. 
+
+Reddit doesn't seem to care how many accounts I have, or how I hide my name. 
+
+I don't want to show my face or name on the YouTube (I suppose I could put on cis-drag, though, but that does seem a lot of trouble and expense). Maybe just cut my face out of the frame? 
+
+Ah . . . wait. I think I just figured it out. I could set up a different Reddit account that could be associated with Real Me. Everyone at work knows Real Me is obsessed with the Ukulele, so it wouldn't be that odd. I can keep my work complaints under this Reddit name, LOL. 
+
+(-: Thanks for listening!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	A separate post would be fine. I'd participate in both, but being a perpetual beginner I'll crank out fewer full songs.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	There ya go. I think you can make a channel on YouTube that doesn't include your name. I know Instagram lets you put emojis on your face in videos. Then you just save the video to your photos app and upload to youtube or reddit.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	> And I believe you are only allowed one YouTube account?
+
+It is easily done if you set up the different accounts from different browsers (e.g., one from Firefox, one from Chrome, one from Internet Explorer, etc.).  You could probably do several from the same browser, but then you have to log out and log in for each account.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Got it. Whatever you put out will be great I’m sure! 😁
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Thank you!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Oh, that could be useful!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I hate singing too and a lot of ukulele tutorials are just chords + singing. I recommend looking up ukulele fingerstyle tutorials. Fingerstyle imo is harder than learning chord progressions but I love it a lot.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I'd recommend [ukuleletricks.com](https://ukuleletricks.com)! 
+
+While it's not free, I 100% think all the work Brett put into the website, his lessons, and the materials are well worth it. Personally I've purchased both the fingerstyle and the minor arpeggio courses... I also hate singing but really enjoy playing melodies and not just strumming chords. 
+
+Good luck!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I like the book ukulele aerobics. It has a lot of exercises to help improve your technical skill. I find it really useful since I want to play fingerstyle one day as well.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Ukulelehunt.com. Go to "tabs and chords," and then tabs. Sorted by difficulty, it should keep you busy for awhiiiile.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I'm absolutely with you - so I just do instrumental covers. They're so much fun I'm uploading one \*every day\* on Instagram: [https://instagram.com/eli\_of\_the\_t/](https://www.instagram.com/eli_of_the_t/) \- currently on day 79! There's everything from classical music to metal in those 11+ weeks.
+
+And there are longer pieces and tutorials on my Youtube channel over at [https://www.youtube.com/user/elidasht](https://www.youtube.com/user/elidasht)
+
+Hopefully some of those may give you ideas - if you have any questions just hit me up.
+
+Have fun!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Me and you have a lot in common in that department, I'd recommend ukulele cheats youtube to get simple riffs with chords. 
+
+After that check out Helmut Bickle Ukulele on youtube for pure fingerstyle, it's tough but stick at it til you learn one song and it'll become much easier. 
+
+Best of luck!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	There are some really good you tubers out there and some will provide tab sheet music if you donate to their patreon. There are also some decent tab sites for ukulele. PDF minstrel has more classic music, folk standards and some other random stuff. My favorite site for free tabs is the ukulele review, they’re all incredibly talented people. The music is challenging for a beginner, but you could focus on certain parts to practice and they have some popular song covers. Tobias Elof posts here sometimes and he has a piece on there that is beautiful called Miriam (I’m a sucker for harmonics), and I think he also does lessons/tabs but I’m not sure about the details. I also really like Conor Berry on YouTube, he makes tabs for a lot of popular songs and they show on the lessons on YouTube or you can join his patreon and have full access to a bunch of tabs you can print.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	If you want to actually learn  [https://ukuleleunderground.com/](https://ukuleleunderground.com/)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Learning ukulele is a time commitment. Put in the hours to learn the chords and practice them.
+
+I don't sing either, never liked to do it. It's okay to try different learning styles until you find one that works for you.
+
+I personally don't like YouTube tutorials, so ukulele for dummies was my go to.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Check out The Ukulele Way from James Hill. It’s not free, but it is inexpensive and very good IMO.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Look into Jake shamabukuro
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Thank you this is helpful
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	do you have tabs?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I like this:)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	That's a beautiful ukulele, what brand is it?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yaasss tabs are exclusive to patrons; [patreon.com/tobiaselof](www.patreon.com/tobiaselof) 
+Choose your own price
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Been following along in IG and enjoying all of them...thanks.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Rugby fans may recognise it as something else.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I have an Ortega concert uke and it is one of my favourites! I really like the sound of it. I play on it more than my other ukes :)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Ooh thanks for the comment!
+I think I will go for the Ortega because it looks beautiful and I have heard from that brand.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Nice
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I could listen to this all day.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Any chance for a tab? Thanks!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Beautiful ❤️ Thanks 😊
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	that metallic sound on the 12th fret, may I ask how you produced it?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	🤙
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Thanks 🙏
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yup.... I make a video with a tab every day. www.patreon.com/tobiaselof choose the monthly price yourself.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I can't remmebr what it's called, but you pluck the string so that your other hands finger touches the string lightly for only a brief moment and pull away. I feel like it's called something tone
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	It's not on the 12th fret per se, its either 1/2, 1/3, 1/4... the way down the string. Its creating a harmonic on the string that's got 1, 1.5, 2... wave forms (2, 3, 4 octaves above the original tone) instead of .5 waveforms that playing a string normally makes.
+
+https://www.youtube.com/watch?v=MPiPW4ZfCt4
+
+ 
+
+https://www.youtube.com/watch?v=q9D6ceOWa3g
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I always wonder what makes people choose which fingers to pick with. I thought at first you weren't using 4 fingers because it was the same pattern with three fingers so you were just adjusting your thumb, but it doesn't actually look like that after i watched some more, its not just the same pattern with thumb + two fingers... so why aren't you using thumb + 3 fingers? not being a dick, genuinely trying to understand the best way to chose finger picking style.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Wow, secret dimension.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	I figured it’s not pull away, but hover over the string so lightly to allow the viberation bounce it off
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	The long answer is that music is like language in that way it conveys emotions, a message or some story, but we may think it’s based on logic and therefore need to structure it like that.... but it will never be logical like language is never logical - except for Esperanto. 
+
+Short answer is I have no clue why I choose to play my fingers like I do, but I like it. And if I don’t like it I try not to play it.
+
+Enjoy
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	This is lovely
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I just learned how to strum and how to play Bare chords and just went wild by learning some songs
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yes, and yes. Just do a search on Youtube for ukulele tutorials. Some popular artists/channels that do tutorials (with a focus on beginners) are Cynthia Lin, Bernadette Teaches Music, The Ukulele Teacher, and *lots* others. The Ukulele Site also has beginner lessons.
+
+Once you reach a more advanced level though, you'll likely benefit from lessons so I do recommend them eventually. But you can get pretty far with the free content available, as long as you practice and keep pushing yourself.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yes! With zero musical experience and zero music theory under my belt, I bought a uke 1 year and 9 months ago. Click on my name to see a video I just posted. It’s not great but a lot better than when I started.
+
+I’d say pick a song like Jingle Bells and learn it. You can keep learning easy songs and have something to show for your efforts.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yes, it's possible. YouTube videos can get you started with how to hold the instrument and basic chords and technique.  It's not at all physically demanding to play.
+
+That being said, you'll progress faster, and without developing any bad habits, with a private teacher. Even just a friend who plays uke can help. You can learn by yourself, but no, you can't learn everything.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Search for Bernadette's 30 day ukulele challenge on youtube, and do it.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	AECF is one of my picks so that’s a relief.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Wow That's a quick turnaround. When I joined in 2012 i waited 10 months for AECF, and my first choice HM had a 18 month wait.Good to see things got better.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I would encourage opening up your options beyond CW. SWO and aviation have much higher selection rates, anywhere from 60-90% depending on the boards. CW and the rest of the IWC programs can average around a 10% selection rate.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	If you want to be involved with the IC then I'd personally like to recommend going out for CTN if the option becomes available. If you want to really be involved in the IC then that is the way to go. We get to do some really cool stuff, especially if you're smart ;)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Don't enlist or commission outside of the IW/CT community if you want to be in it. Have you considered CTI? It's automatically granted if you pass the DLAB and they have the highest rate of acceptance into CW Officer.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	You haven't once mentioned your OAR score, or GPA. Additionally do you have computer security, network, or programing experience? You will have to demonstrate these skills to the selection board.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I’m more interested in the community rather than being an officer.. Honestly if I had to choose between reenlisting and being a Ct or going swo.. I’d pick Ct.. Thats not to knock swo its just not what I want to do. But the acceptance rate being higher is what my officer recruiter said aswell
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yes. Took the dlab however only scored a 92... my plan right now is to go for AC since I’ve already signed my contract and from there either go for CTI, CTT, Or CTR during or after the end of my first contract. Or go for IWO... 
+
+Again what I’m concerned about is being able to cross rate later on either during my first contract or sometime afterwards via a re-enlistment package or Ocs package. I definitely plan on taking the dlab again though but theres a 6 month hold
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Oar was low sitting around a 45, undergrad gpa was a 3.4 however I plan on improving my package by going to gradschool during/ After my first contract. I’m going for a ms in GIS and I haven’t decided on the other masters program. Either way I have a Gi bill to use so I plan on using it. My gpa is low because I had to work full time through my undergrad and there were time where work had to be a priority over academics..
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Cross rating is unlikely. You can apply for IWO from any rate, Just make sure you really impress on your interviewers your interest and knowledge of the career. The board would be hard pressed to choose you over a competing CT for the role. A more likely path might be commissioning as a SWO first and then switching to Intel of CWO. 
+
+Good luck with whatever you choose, but I recommend finding a way out of the AC contract if you want to be in IW.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Well you aint going CWE with a 45 master's or not. Go to the link and dig around about what you actually need. 
+
+&#x200B;
+
+[https://www.airwarriors.com/community/threads/question-about-cwe.45639/](https://www.airwarriors.com/community/threads/question-about-cwe.45639/)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Alright appreciate the insight here. Havent been able to find much.. Most airwarriors info has been on swo and piloting packages
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	11/15 is more likely. It takes time for DFAS to do anything.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	You get skunked on pay for about the first month. Plan on having 30 days savings. Then when you're in build it to 90 days savings just as a life buffer.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	You’re not going to be able to access it for 2 months anyways so focus on training first.
+
+Edit: You could leave Great Lakes with $1700-2000 paid to you. But money will be taken out for your pay to cover issued uniforms and such.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	probably needs to know so he can make sure he has enough $ for bills, so dont be condescending
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	*she, but yes exactly. I’m not a child either, I’m 27 with car payment, insurance, phone bill with 2 lines, yadayada. Not that age matters but I am a somewhat established adult with financial responsibilities. I’ve read several different answers to this question online, just want to know what to plan for.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	*she, but yes exactly. I’m not a child either, I’m 27 with car payment, insurance, phone bill with 2 lines, yadayada. Not that age matters but I am a somewhat established adult with financial responsibilities. I’ve read several different answers to this question online, just want to know what to plan for.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Condescending, I think not. I believe that’s why recruiters tell the recruits to settle/cancel their shit or have someone maintain it for them while they on lockdown for 2 months.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Plan for saving at least a month of bills prior to is my advice. It isn't set up instantly and you're going to have your uniforms and such deducted immediately. You'll likely go a pay period or two owing the Navy money. If one of your phones isn't for a family member or significant other, consider a military suspension.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Not condescending at all, just wanted to see what I need to figure out
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Yeah I’m going to have to. I was trying to avoid it because my friend is on my plan and idk if she can afford to go get her own plan right now. She’s preggo and could give birth literally at any minute so I feel horrible throwing a last minute stressor at her.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I left june 4th of last year. And I think I got my first check paid mid july. But yeah definitely set up auto pay and have enough for it. Also if you tell your bank/insurance they'll hold the payment for a while for you. I'd plan for mid month as for worst case scenario
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Thank you for the help!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Mine got approved, you’ll just end up getting a job that doesn’t require normal color vision
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	MEPS stopped accepting civilian eye forms. I don’t think I’ve ever seen a color blind waiver be entertained, especially if certain jobs require you to distinguish colors...
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Many jobs don’t require normal vision, such as CTI and Hospital Corpsmen. Your liaison will help you get a good job. Not all jobs are going to require normal vision. I was in the same boat and went Cryptologic and I’m happy.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	What’s the point of getting a waiver if you will only be able to do jobs that don’t require normal color vision?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Not sure honestly it’s just how the Navy works
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Call.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Call the recruiting office first to set up an appointment.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	There are no special SO recruiters. You go through any recruiter to determine your eligibility for the Navy in general, then you would have to qualify for SO based on your mental aptitude and medical profile. Finally, you would go through a tryout period (typically takes months) to earn a contract. The most common route is to go through MEPS to pick a backup job in case you don't make the cut, then start trying out for spec ops during biweekly workouts. The workouts are tough.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Right but I heard if you sign something else instead of a SO contract that you want it’s harder to transfer. 
+
+If you have good PST scores I’m sure it isn’t that difficult to get a SO contract considering if you did good on everything else. ?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I recommend being able to blow the pst away before talking to a recruiter.
+
+I dont know where you're at now, but check out Stew Smith on youtube, he helps teach you how to do the CSS swim and overall prepare for special warfare programs.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Okay great thank you!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	ukulele
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Until you take the ASTB no one can tell you what your selection odds are. Come back once you’ve taken the ASTB and asked your recruiter. 
+
+As for LASIK/PRK, no the navy won’t pay for your surgery so you’ll have to fork that out of pocket. As for being a good candidate for eye surgery, that’s a discussion for your eye surgeon. 
+
+Do not apply for NFO under the assumption the navy will switch you to Pilot down the road.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	> it more likely to a) be selected for a pilot slot in OCS if I had vision correction surgery done before OCS
+
+Yes
+
+> b) transfer into a pilot position after serving elsewhere in the Navy and having them handle my eye surgery?
+
+This is a terrible plan if your goal is to be a pilot
+
+> What steps should I follow to make sure that the Navy is okay with my vision correction surgery if I have it done before joining?
+
+Look at the NAMI waiver guide and airwarriors
+
+> I should be scheduled for a MEPS screening this coming week, could they give me a step-by-step of what to do to get approved eye surgery?
+
+Probably not, they might be able to tell you things for the military overall, but they don't handle specifics when it comes to passing a flight physical
+
+> NFO slot, have them pay for my surgery, then, at some point, try and transfer to become a pilot?
+
+Just want to emphasize that this is a terrible idea if your primary goal is to be a pilot
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Same swim requirements for Pilots and NFOs, they'll work with you, no one I know who struggled with swim didn't make it because of it, some of it may be difficult
+
+If you go jets, around 2-3 years to get your wings, but getting jets is far from a guarantee, you need to be both lucky and good
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Just curious, what parts of the swimming did you find the most difficult? I’m looking at being a pilot and was also a bit worried about some of the swim test.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	MarioMaker
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	So you have a goal. Fly 18s. You have a hurdle swimming.
+
+What's the issue to fix it? Get to the YMCA or any of the other dozen organizations that have adult swimming classes. Go get this done. Good college GPA, ASTB, and swimming classes. The swimming will be the easy part. Make the plan and execute.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	I struggled with swim quite a bit. I had to do remedial swim (at API), going twice a day for two weeks straight to learn the strokes and to not be so skittish around the water. I’m happy to tell you that the instructors there work with you and help you get to where you need to be. 
+
+When I got to the Physiological side of things at API and started doing all of the other water survival training (full gear + G-suit swim, tread and float,etc), the training I had in remedial absolutely helped me; but I couldn’t have gotten there without admitting I suck at swimming (70 min. mile swim) and just letting the instructors do their thing, teach me, and understand the water isn’t that bad. If you get rolled during the first day to go to remedial then you won’t get penalized. 
+
+They understand that not everyone is a good swimmer and they’ll address it. At OCS, if you fail the swim test, they’ll just make you go to remedial lessons a few weeks later with more one-on-one instruction to make sure you pass. 
+
+You’ll be fine!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Check out airwarriors which has a ton of information.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	The swim class I did was nothing to what you do in training, or so I hear. In full flight suit, boots and helmet and had to swim like 50 yards and tread water for 5 minutes then deploy your life preserving unit manually. The boots sank my legs like rocks
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Alright, thanks for the input!
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	Nerf
+Incorrect
+
+
+TESTING ON INPUT PROBLEM:
+	Shoot me a PM with all of your questions and I’ll hit you back as soon as I can
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Been asked countless times.  Search away !
+
+&#x200B;
+
+[https://www.reddit.com/r/newtothenavy/search/?q=HM%20ATF&restrict\_sr=1](https://www.reddit.com/r/newtothenavy/search/?q=HM%20ATF&restrict_sr=1)
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	oh good god are you just being downvoted because of your username?  search this question kiddos.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	yes, ask your unit about ADT, ADSW and/or additional drill opportunities.  Also, at the beginning of the year, you don't just have the "two weeks", AT starts at 29 days with what's called "exceptional" or E-AT.  So you can do more if you get signed up early.
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Funeral Honors?
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+
+TESTING ON INPUT PROBLEM:
+	Sure. Go IA
+CORRECT OUTPUT:
+YOUR OUTPUT:
+	newToTheNavy
+Correct!
+
+You got 71.5% correct: +60/50 points
+=============================
+=======  FINAL GRADE  =======
+=============================
+120 / 100
